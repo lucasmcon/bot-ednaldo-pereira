@@ -1,0 +1,17 @@
+{
+  "name": "bot-ednaldo-pereira",
+  "version": "1.0.0",
+  "description": "Bot baseado nos memes do Ednaldo Pereira",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Menezes",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "google": "^2.1.0",
+    "nodemon": "^2.0.4"
+  }
+}
